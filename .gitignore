@@ -1,0 +1,11 @@
+.tools/
+.codex-remote-attachments/
+.gradle/
+**/build/
+**/bin/
+**/obj/
+local.properties
+*.jks
+*.keystore
+.env
+.env.*
